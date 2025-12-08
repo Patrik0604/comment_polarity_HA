@@ -1,0 +1,7 @@
+venv/
+saved_models/
+polarity_model/
+.idea/
+__pycache__/
+*.pyc
+data/to_be_labeled_labeled.csv
